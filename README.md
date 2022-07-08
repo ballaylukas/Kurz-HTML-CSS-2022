@@ -1,2 +1,2 @@
 # Studijní projekty z Udemy kurzu HTML-CSS 2022
-Studijní projekty z kurzu Build Responsive Real-World Websites with HTML and CSS
+Úložiště obsahuje mnou kompletně psaný kód jednotlivých projektů v rámci plně absolvovaného kurzu HTML-CSS (03/2022 - 06/2022) na vzdělávací platformě udemy.com
